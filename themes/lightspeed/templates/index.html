@@ -59,7 +59,8 @@
 
       {% block content %}
       <ul class="homepage-list">
-        {% for post in section.pages %}
+        {% set posts_section = get_section(path="blog/_index.md") %}
+        {% for post in posts_section.pages %}
           {{ macros::post_in_list(post=post) }}
         {% endfor %}
       </ul>
