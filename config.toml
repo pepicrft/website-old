@@ -14,6 +14,9 @@ build_search_index = true
 [markdown]
 highlight_code = true
 
+[slugify]
+paths = "on"
+
 [extra]
 author = "Pedro Piñera"
 zola = true
