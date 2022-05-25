@@ -25,5 +25,5 @@ maintained_with_love = true
 footer_tagline = "Build developer experiences that spark joy"
 footer_links = [
     {url = "$BASE_URL/pages/about", name = "About"},
-    {url = "$BASE_URL/atom.xml", name = "RSS"},
+    {url = "$BASE_URL/blog/atom.xml", name = "RSS"},
 ]
