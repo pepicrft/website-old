@@ -3,8 +3,6 @@ title: "On embracing my chaos"
 categories: ['lifestyle', 'learnings']
 ---
 
-# On embracing my chaos
-
 Over the past few years, I’ve tried and failed many times at giving my chaotic self some order — something inevitably made me feel anxious.
 
 I tried to organize myself using todo apps. I always used any random piece of paper that I found near me. I also tried to file, categorize, and prioritize issues on a GitHub repository. Still, I ended up resorting to a .gitignored TODO.md document. My note-taking apps are a mess. Thinking about how to label and organize my notes is an unnecessary mental burden for me. When something pops in my head, I want to jot it down and move on.
