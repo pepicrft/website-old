@@ -62,6 +62,17 @@
         </h3>
       </header>
       <hr />
+      {% if config.extra.footer_links %}
+      <nav style="margin-bottom:1rem;" role="navigation">
+        {% for item in config.extra.footer_links %}
+          <a href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) | safe }}">{{ item.name }}</a>
+          {% if loop.last %}{% else %}
+            <span>&middot;</span>
+          {% endif %}
+        {% endfor %}
+      </nav>
+      {% endif %}
+      <hr />
       {% endblock header %}
 
       {% block content %}
@@ -76,16 +87,6 @@
       {% block footer %}
       <footer role="contentinfo">
         <hr />
-        {% if config.extra.footer_links %}
-        <nav style="margin-bottom:1rem;" role="navigation">
-          {% for item in config.extra.footer_links %}
-            <a href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) | safe }}">{{ item.name }}</a>
-            {% if loop.last %}{% else %}
-              <span>&middot;</span>
-            {% endif %}
-          {% endfor %}
-        </nav>
-        {% endif %}
         {% block taglines %}
         <small>
           {%- if config.extra.zola or config.extra.zola is undefined -%}Built with <a href="https://www.getzola.org/">Zola</a>{%- endif -%}
