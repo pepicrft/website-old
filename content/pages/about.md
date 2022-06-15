@@ -21,12 +21,16 @@ title = "About"
   My <b>long-term life plans</b> are to retire my parents early and make a living by building human and open-source tools with technology. Open source has the power to impact society positively and can be financially sustainable.
   </p>
 	<p>
-    I'm also a bit fed up with surveillance capitalism and being the product of social networks, so I'm embracing more healthy and more human alternatives that adhere to the <a href="https://fediverse.info/">Fediverse</a> movement.
-		I have a profile on <a href="https://pixelfed.social/pepicrft" target="_blank">Pixelfed</a> where
-		I publish photos, and I hang out in my <a href="https://mastodon.craftweg.com" target=="_blank">mastodon.craftweg.com</a> instance as <a href="https://mastodon.craftweg.com/@pepicrft" target="_blank">@pepicrft@mastodon.craftweg.com</a>
+    I'm also a bit fed up with surveillance capitalism and being the product of social networks, so I'm embracing more healthy and more human alternatives that adhere to the <a href="https://fediverse.info/">Fediverse</a> movement. I run the following instances:
 	</p>
+	<ul>
+		<li><a href="https://album.craftweg.com/i/web/profile/442607573676986369" target="_blank">album.craftweg.com</a> (Pixelfed)</li>
+		<li><a href="https://git.craftweg.com" target="_blank">git.craftweg.com</a> (Gitea)</li>
+		<li><a href="https://microblog.craftweg.com/web/@pepicrft" target="_blank">microblog.craftweg.com</a> (Mastodon)</li>
+		<li><a href="https://matrix.to/#/@pepicrft:matrix.craftweg.com">@pepicrft:matrix.craftweg.com</a> (Matrix)</li>
+	</ul>
 	<p>
-		You can contact me via email <a href="mailto:hola@craftweg.com">hola@craftweg.com</a> or through Matrix at <a href="https://matrix.to/#/@pepicrft:one.ems.host">@pepicrft:one.ems.host</a>, and find me on
+		You can contact me via email <a href="mailto:hola@craftweg.com">hola@craftweg.com</a> and find me on
 		<a href="https://github.com/pepicrft" target="_blank">GitHub</a>,
 		<a href="https://gitlab.com/pepicrft" target="_blank">GitLab</a>
 		<a href="https://twitter.com/pepicrft" target="_blank">Twitter</a>, and
