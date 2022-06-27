@@ -20,6 +20,6 @@ Moreover, I think I've developed a good sense for building great experiences thr
 Devising developer experiences is more of a product role, but **I'm not a product designer**.
 *Should I dive into what it entails to be a product designer and apply it to the developer tooling domain?*
 
-It feels odd that product and development is a binary distinction in companies. It causes me a lot of impostor syndrome and a lack of identity. It'd be great if the gap between spectrums was a spectrum, and you could grow within it too. Imagine one day wearing a technical hat because there's a problem you want to go really deep into solving because you think it'll positively impact DX. But the next day, you build prototypes around new workflows that you think users will love.
+It feels odd that product and development is a binary distinction in companies. It causes me a lot of impostor syndrome and a lack of identity. It'd be great if the gap between product and development was a spectrum, and you could grow within it too. Imagine one day wearing a technical hat because there's a problem you want to go really deep into solving because you think it'll positively impact DX. But the next day, you build prototypes around new workflows that you think users will love.
 
 The reason **why I love open source** so much is that it's not who I am but about what experiences I want to create. I feel highly empowered when I free any labels and can navigate domains.
