@@ -6,7 +6,7 @@ title = "About"
 	<p>
 		I'm <a href="/about"><b>Pedro Piñera</b></a>. I'm a Staff Production Engineer at <a href="https://shopify.com" target="_blank">Shopify</a> and a
 		open-source enthusiast. I fight for open, small, and human technology. I enjoy devising and
-		building developer tools that spark joy. Typescript 🚀, Ruby 💎, Rust 🦀 are my day-to-day
+		building developer tools that spark joy. Elixir 🧪, Rust 🦀, Javascript 🚀 are my day-to-day
 		languages.
 	</p>
 	<p>
@@ -24,8 +24,6 @@ title = "About"
     I'm also a bit fed up with surveillance capitalism and being the product of social networks, so I'm embracing more healthy and more human alternatives that adhere to the <a href="https://fediverse.info/">Fediverse</a> movement. I run the following instances:
 	</p>
 	<ul>
-		<li><a href="https://album.craftweg.com/i/web/profile/442607573676986369" target="_blank">album.craftweg.com</a> (Pixelfed)</li>
-		<li><a href="https://git.craftweg.com" target="_blank">git.craftweg.com</a> (Gitea)</li>
 		<li><a href="https://microblog.craftweg.com/web/@pepicrft" target="_blank">microblog.craftweg.com</a> (Mastodon)</li>
 		<li><a href="https://matrix.to/#/@pepicrft:matrix.craftweg.com">@pepicrft:matrix.craftweg.com</a> (Matrix)</li>
 	</ul>
