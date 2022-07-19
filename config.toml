@@ -1,8 +1,8 @@
-title = "~/craftweg.com/src"
-description = "Empowering people through software craftsmanship"
+title = "~/ppinera.es/src"
+description = "Pedro's little cornter on the Internet"
 
 # The URL the site will be built for
-base_url = "https://craftweg.com"
+base_url = "https://ppinera.es"
 theme = "lightspeed"
 
 # Whether to automatically compile all Sass files in the sass directory

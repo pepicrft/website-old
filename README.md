@@ -1,10 +1,10 @@
-# craftweg.com
+# ppinera.es
 
-Craftweg's website powered by [Zola](https://www.getzola.org/)
+Pedro Piñera's personal website powered by [Zola](https://www.getzola.org/)
 
 ## Set up
 
-1. Clone the repository: `git clone https://github.com/craftweg/website.git`
+1. Clone the repository: `git clone https://github.com/pepicrft/ppineraes.git`
 2. Install [Zola](https://www.getzola.org/)
 3. Run `zola serve`.
    
