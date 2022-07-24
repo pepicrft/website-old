@@ -14,13 +14,8 @@ title = "About"
 		projects, proposed a modular architecture to build apps,
 		<a href="https://docs.tuist.io/building-at-scale/microfeatures" target="_blank"
 			>µfeatures architecture</a
-<<<<<<< HEAD
-		>. I'm now focused on building a framework for building apps with web technologies,
-		<a href="https://gestaltjs.org">Gestalt</a>.
-=======
 		>. I'm now focused on building an open-source deployment tool,
 		<a href="https://catalysis.dev">Catalysis</a>.
->>>>>>> 68b15cc (Create project)
 	</p>
   <p>
   My <b>long-term life plans</b> are to retire my parents early and make a living by building human and open-source tools with technology. Open source has the power to impact society positively and can be financially sustainable.
