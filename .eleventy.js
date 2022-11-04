@@ -12,7 +12,7 @@ module.exports = function (eleventyConfig) {
   });
 
   /* Development daemon */
-  eleventyConfig.addWatchTarget("../files");
+  eleventyConfig.addWatchTarget("./files");
 
   let changed = [];
   eleventyConfig.on('beforeWatch', (changedFiles) => {

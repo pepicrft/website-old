@@ -5,7 +5,7 @@ const Link = require('nonplain-md-link').default;
 const { regex } = require('nonplain-md-link');
 const slug = require('slug');
 
-const FILES_ROOT = path.join(__dirname, '../../files');
+const FILES_ROOT = path.join(__dirname, '../files');
 const FILES_DATA = path.join(__dirname, '../src/_data/files.json');
 const PUBLIC_EXTNAME = '.html';
 

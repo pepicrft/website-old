@@ -1,7 +1,7 @@
 {
-  "name": "nonplain-11ty-starter",
+  "name": "ppineraes",
   "version": "0.0.0",
-  "description": "Create an 11ty website out of nonplain files",
+  "description": "Pedro Pinera's static website powered by Eleventy",
   "scripts": {
     "prebuild": "node build-files/bin.js",
     "build": "npx @11ty/eleventy",
