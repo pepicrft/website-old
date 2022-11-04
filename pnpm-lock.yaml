@@ -4,7 +4,7 @@ specifiers:
   '@11ty/eleventy': ^0.12.1
   '@11ty/eleventy-navigation': ^0.3.2
   clean-css: ^5.2.0
-  nonplain: ^0.0.5
+  nonplain: ^0.1.0
   nonplain-md-link: ^0.0.10
   slug: ^5.1.0
 
@@ -12,8 +12,8 @@ devDependencies:
   '@11ty/eleventy': 0.12.1
   '@11ty/eleventy-navigation': 0.3.5
   clean-css: 5.3.1
-  nonplain: 0.0.5
-  nonplain-md-link: 0.0.10_nonplain@0.0.5
+  nonplain: 0.1.0
+  nonplain-md-link: 0.0.10_nonplain@0.1.0
   slug: 5.3.0
 
 packages:
@@ -493,7 +493,7 @@ packages:
     dev: true
 
   /concat-map/0.0.1:
-    resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
+    resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
     dev: true
 
   /condense-newlines/0.2.1:
@@ -1361,16 +1361,16 @@ packages:
     resolution: {integrity: sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==}
     dev: true
 
-  /nonplain-md-link/0.0.10_nonplain@0.0.5:
+  /nonplain-md-link/0.0.10_nonplain@0.1.0:
     resolution: {integrity: sha512-fR9BC8di4W2U66NFthK/ThVhra697eQnzbyee2e+WR5G5e2WhsbjwRI1i3SS9jNkmmDxInxzsY+vO885gTolYw==}
     peerDependencies:
       nonplain: ^0.0.5
     dependencies:
-      nonplain: 0.0.5
+      nonplain: 0.1.0
     dev: true
 
-  /nonplain/0.0.5:
-    resolution: {integrity: sha512-h0IcXKJuJpkZ74eUrmvwO+3c6JC1pifKg7VKIf/pcdNikLR/1/UZjsfzVkLOtCIu891h6xKkB9S+D4aW05sVHQ==}
+  /nonplain/0.1.0:
+    resolution: {integrity: sha512-18cUt5PuTgvIHSnE9VVTuD1CaAaYgmdt1ab9dKj4yTi4bLa2H6HhOW9I/WdQTQKehPFU+XztfSbR7hORwYr+Gg==}
     dependencies:
       glob: 7.2.3
       js-yaml: 3.14.1
