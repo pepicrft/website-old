@@ -1,0 +1,15 @@
+---js
+{
+  layout: 'base.njk',
+  pagination: {
+      addAllPagesToCollections: true,
+      alias: 'file',
+      data: 'files',
+      size: 1,
+  },
+  permalink: '/{{ file.metadata.permalink }}',
+  templateEngineOverride: 'njk, md',
+}
+---
+
+{{ file.body | safe }}
