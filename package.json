@@ -14,6 +14,6 @@
     "clean-css": "^5.2.0",
     "nonplain": "^0.0.5",
     "nonplain-md-link": "^0.0.10",
-    "slug": "^5.1.0"
+    "slug": "^8.0.0"
   }
 }

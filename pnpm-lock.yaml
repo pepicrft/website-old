@@ -6,7 +6,7 @@ specifiers:
   clean-css: ^5.2.0
   nonplain: ^0.0.5
   nonplain-md-link: ^0.0.10
-  slug: ^5.1.0
+  slug: ^8.0.0
 
 devDependencies:
   '@11ty/eleventy': 0.12.1
@@ -14,7 +14,7 @@ devDependencies:
   clean-css: 5.3.1
   nonplain: 0.0.5
   nonplain-md-link: 0.0.10_nonplain@0.0.5
-  slug: 5.3.0
+  slug: 8.2.2
 
 packages:
 
@@ -1824,8 +1824,9 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /slug/5.3.0:
-    resolution: {integrity: sha512-h7yD2UDVyMcQRv/WLSjq7HDH6ToO/22MB381zfx6/ebtdWUlGcyxpJNVHl6WFvKjIMHf5ZxANFp/srsy4mfT/w==}
+  /slug/8.2.2:
+    resolution: {integrity: sha512-5ByW6qXqPeG0Tmlkh24JhdXhvQsbaJSjVr3GgGxUV0BSskZKKBZZfFWxezap8+fh1vxBN9GVbqI1V6nqAFxlBg==}
+    hasBin: true
     dev: true
 
   /slugify/1.6.5:
