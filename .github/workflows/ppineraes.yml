@@ -1,0 +1,39 @@
+name: ppinera.es
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+concurrency:
+  group: ppineraes-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
+env:
+  PNPM_VERSION: "7.14.2"
+  NODE_VERSION: "18.11.0"
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'pull_request' }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+      - uses: pnpm/action-setup@v2.2.4
+        with:
+          version: ${{ env.PNPM_VERSION }}
+      - name: Set Node.js
+        uses: actions/setup-node@master
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'pnpm'
+          cache-dependency-path: '**/pnpm-lock.yaml'
+      - name: Install dependencies
+        run: pnpm install
+      - name: Build
+        run: pnpm run build
