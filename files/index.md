@@ -16,3 +16,5 @@ I love learning new programming languages and technologies and building with the
 This website is my medium to openly and candidly share what's in my mind.
 Software is a recurrent theme,
 but I also touch on other life experiences and learnings.
+
+You can find me on [Twitter](https://twitter.com/pepicrft), [Mastodon](https://fosstodon.org/web/@pepicrft), and [GitHub](https://github.com/pepicrft)
