@@ -14,8 +14,7 @@ title = "About"
 		projects, proposed a modular architecture to build apps,
 		<a href="https://docs.tuist.io/building-at-scale/microfeatures" target="_blank"
 			>µfeatures architecture</a
-		>. I'm now focused on building an open-source deployment tool,
-		<a href="https://catalysis.dev">Catalysis</a>.
+		>.
 	</p>
   <p>
   My <b>long-term life plans</b> are to retire my parents early and make a living by building human and open-source tools with technology. Open source has the power to impact society positively and can be financially sustainable.
@@ -35,6 +34,7 @@ title = "About"
 Here's the list of the companies that I've proudly been part of:
 
 - [Shopify](https://shopify.com/):
+  - 2022: Senior Staff Developer.
   - 2021: Staff production engineer.
   - 2019: Engineering manager of the mobile tooling and React Native Foundations teams.
   - 2018: Senior production engineer in the mobile tooling team.
@@ -46,8 +46,8 @@ Here's the list of the companies that I've proudly been part of:
 
 Here's a list of values that I believe in and that drive most of my decisions in life:
 
-- **Genuineness:** I trust things and people when they are authentic, when they don't try to make up a false appearance. I often come across banal elements on the Internet, and I find it hard to put trust on them. Since I believe in being authentic, I seek authenticity myself. If feel bad, have flaws, did something wrong, or feel wonderful, that's what I share with others. I don't expect the same from others, nor I'd push them to do so.
-- **Openness:** I believe in the value of being open and sharing our learnings, mistakes, work, and experiences with others. This is a value that I learned from my experience doing open-source work and I think it applies to other areas. I try to be open and direct when talking to people, when dumping thoughts on my blog, or having discussions on GitHub. When openness is reciprocal, it inspires wonderful interactions between people.
-- **Humility:** I always try to keep my feet on the floor and don't forget where I come from. I do so by exercising appreciation, which in turn helps me stay humble and not let ego devour me. I'm not a person that likes to see himself as especial so when people see me through those lenses, I invite them not to do so by being a casual and approachable person, friend of friends.
-- **Human-first:** It's easy to lose our way in technology and forget that the ultimate of goal of technology is to empower and help people. I'm a huge detractor of companies like Facebook that exploit vulnerabilities of human beings. When I design and build software, I put people in the first place: _values, moral principles, risk to addiction._ Helping them is far more important to me than building a successful product that make people's life worse.
-- **Directness:** I like communication is clear and direct. This is something I appreciate from the German culture compare to the Spanish's, where it's common to beat the bush when there's an elephant in the room they don't want to talk about.
+- **Genuineness:** I trust things and people when they are authentic when they don't try to make up a false appearance. I often encounter banal elements on the Internet, and I find it hard to trust them. Since I believe in being authentic, I seek authenticity myself. If I feel bad, have flaws, did something wrong, or feel excellent, that's what I share with others. I don't expect the same from others, nor I'd push them to do so.
+- **Openness:** I believe in the value of being open and sharing our learnings, mistakes, work, and experiences with others. This is a value I learned from my experience doing open-source work and applies to other areas. I am open and direct when talking to people, dumping thoughts on my blog, or having discussions on GitHub. When openness is reciprocal, it inspires excellent interactions between people.
+- **Humility:** I always try to keep my feet on the floor and not forget where I come from. I do so by exercising appreciation, which helps me stay humble and not let my ego devour me. I'm not a person that likes to see himself as especial, so when people see me through those lenses, I invite them not to do so by being a casual and approachable person, a friend of friends.
+- **Human-first:** It's easy to lose our way in technology and forget that the ultimate goal of technology is to empower and help people. I'm a massive detractor of companies like Facebook that exploit the vulnerabilities of human beings. When I design and build software, I put people first: values, moral principles, and addiction risk. Helping them is far more important to me than building a successful product that makes people's lives worse.
+- **Directness:** I like communication is clear and direct. I appreciate this from the German culture.
