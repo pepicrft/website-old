@@ -1,6 +1,5 @@
 ---
 title: Growing as a Staff Developer
-description:
 categories: [staff developer, engineering, growth]
 ---
 
