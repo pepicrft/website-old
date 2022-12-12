@@ -1,4 +1,4 @@
-# ppinera.es
+# pepicrft.me
 
 Pedro Piñera's personal website powered by [Zola](https://www.getzola.org/)
 

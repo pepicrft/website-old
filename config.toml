@@ -1,8 +1,8 @@
-title = "~/ppinera.es/src"
+title = "~/pepicrft.me/src"
 description = "Pedro's little corner on the Internet"
 
 # The URL the site will be built for
-base_url = "https://ppinera.es"
+base_url = "https://pepicrft.me"
 theme = "lightspeed"
 
 # Whether to automatically compile all Sass files in the sass directory
