@@ -1,0 +1,9 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/blog/2022-12-13-an-explicit-build-graph-for-a-better-dx.md"
+        }
+    ]
+}
